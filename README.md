@@ -1,2 +1,2 @@
-# cineteca
-digital film library
+# CINETECA
+a digital film library 
